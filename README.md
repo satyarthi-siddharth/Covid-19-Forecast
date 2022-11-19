@@ -5,4 +5,4 @@ this virus effect in the near future.
 
 ## Screenshots
 ![](https://github.com/satyarthi-siddharth/Covid-19-Forecast/blob/main/CoVid-19%20Forecast%20Demo/Screenshot%20(68).png)
-![]()
+![](https://github.com/satyarthi-siddharth/Covid-19-Forecast/blob/main/CoVid-19%20Forecast%20Demo/Screenshot%20(69).png)
